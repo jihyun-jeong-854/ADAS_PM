@@ -1,6 +1,9 @@
 # ADAS for PM
 **Advanced Driver Assistance System for Personal Mobility**
-
+- Model: YOLOv5 <br>
+git clone https://github.com/ultralytics/yolov5
+- Object Tracking Algorithm: Deep SORT
+- Demo App: Swift
 ## Table of Contents
 
 1. [Introduction](#introduction)
