@@ -1,2 +1,3 @@
 *.ptl
 *.DS_Store
+ObjectDetection/Pods/LibTorch-Lite/install/lib/*
